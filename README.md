@@ -1,5 +1,5 @@
 # Tinder Clone 
- ###credits to sonny sangha
+ ## credits to sonny sangha
 
 # Live Demo
 
